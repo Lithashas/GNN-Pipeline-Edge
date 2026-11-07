@@ -1,10 +1,6 @@
 # GNN-Pipeline-Edge
 PIPELINED CPU–GPU EXECUTION OF GRAPH NEURAL NETWORK INFERENCE ON SHARED-MEMORY EDGE DEVICES
 
-![HPC](https://img.shields.io/badge/Project-HPC--Research-blueviolet)
-![C++](https://img.shields.io/badge/Language-C%2B%2B17-blue)
-![CUDA](https://img.shields.io/badge/Hardware-NVIDIA%20CUDA-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Project Overview
 This repository contains the implementation for my 3rd-year High-Performance Computing project: **"Pipelined CPU-GPU Execution of GNN Inference on Shared-Memory Edge Devices."**
